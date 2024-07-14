@@ -8,4 +8,4 @@ Welcome! This is a place for me to dump some knowledge and share it with whoever
 
 Here's a list of some of my current public repos
 
-- **[Defender Advanced Hunting Queries]()**
+- **[Defender Advanced Hunting Queries](https://github.com/cybr-1/hunting-queries)**
