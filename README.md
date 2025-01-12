@@ -1,8 +1,6 @@
-# cybr-1, cybersec samurai
+# cybr-1, Tommy
 
 Welcome! This is a place for me to dump some knowledge and share it with whoever curiously wanders here.
-
-![welcome gif](https://i.pinimg.com/originals/a7/64/84/a76484ce9df4de57c222594b6de5e6f6.gif)
 
 ## current public repos
 
