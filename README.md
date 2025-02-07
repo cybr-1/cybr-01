@@ -1,5 +1,3 @@
-# cybr-1, Tommy
-
 Welcome 👋 Feel free to wander around and grab whatever picks your fancy! 
 
 Please raise any issues you identify, or reach out on my socials (listed below)
