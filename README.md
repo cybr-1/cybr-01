@@ -14,4 +14,4 @@ Here's a list of some of my current public repos
 
 ## current repos (private) - DEV ⏳ 
 
-- **[SecOps Toolkit](https://github.com/cybr-1/secops-toolkit)**
+- **SecOps Toolkit**
